@@ -1,3 +1,7 @@
 PokerDuel
 
 A Python IRC bot that deals poker games. More information to come.
+
+To use, rename/copy config-example to config, fill it in, and run irc.py
+
+This program uses the GPL3 licensed SpecialKEval. Its source code can be found at https://github.com/kennethshackleton/SpecialKEval
