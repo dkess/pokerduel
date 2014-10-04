@@ -5,3 +5,5 @@ A Python IRC bot that deals poker games. More information to come.
 To use, rename/copy config-example to config, fill it in, and run irc.py
 
 This program uses the GPL3 licensed SpecialKEval. Its source code can be found at https://github.com/kennethshackleton/SpecialKEval
+
+Want to try out the bot? Join #duel on irc.subluminal.net . Webchat link: http://webchat.subluminal.net/?channels=duel&uio=d4

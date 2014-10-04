@@ -1,6 +1,6 @@
 nick=PokerDuel
 user=Nisani
-server=irc.freenode.org
+server=irc.subluminal.net
 port=6667
 channel=#duel
 init=PRIVMSG NickServ identify your_nickserv_passwd
